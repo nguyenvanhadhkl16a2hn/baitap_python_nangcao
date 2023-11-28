@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<congty>
+    <thongtin_giamdoc>
+        <ten>Giam Doc Cong Ty</ten>
+        <diachi>So 123, Duong ABC, Thanh pho XYZ</diachi>
+        <dienthoai>0123456789</dienthoai>
+        <masothue>ABC123456</masothue>
+    </thongtin_giamdoc>
+    <thongtin_congty>
+        <ten>Cong Ty ABC</ten>
+        <diachi>So 456, Duong XYZ, Thanh pho ABC</diachi>
+        <dienthoai>0987654321</dienthoai>
+        <masothue>XYZ789012</masothue>
+    </thongtin_congty>
+</congty>

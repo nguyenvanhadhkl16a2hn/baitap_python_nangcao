@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<danhsachsinhvien>
+    <sinhvien>
+        <masv>22174600018</masv>
+        <tensv>Nguyễn Văn Hà</tensv>
+        <namsinh>2004</namsinh>
+        <lop>DHKL16A2HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masv></masv>
+        <tensv>Phương Diệp Thảo</tensv>
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A2HN</lop>
+        <gioitinh>Nữ</gioitinh>
+    </sinhvien>
+    <!--Thêm thông tin sinh viên khác tại đây nếu muốn -->
+</danhsachsinhvien>
